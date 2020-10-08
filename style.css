@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-style: oblique;
+  font-variant: inherit;
+}
+h2 {
+  color: coral;
+}
+.detail {
+  background-color: tomato;
+  color: white;
+  text-align: center;
+}
